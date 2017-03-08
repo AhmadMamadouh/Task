@@ -1,0 +1,12 @@
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\bin\Debug\RestaurantDataAccessLayer.dll.config
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\bin\Debug\RestaurantDataAccessLayer.dll
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\bin\Debug\RestaurantDataAccessLayer.pdb
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\bin\Debug\EntityFramework.dll
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\bin\Debug\EntityFramework.xml
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\obj\Debug\RestaurantDataAccessLayer.csprojResolveAssemblyReference.cache
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\obj\Debug\RestaurantDataAccessLayer.dll
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\obj\Debug\RestaurantDataAccessLayer.pdb
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\obj\Debug\RestaurantDataAccessLayer.Migrations.createdb.resources
+D:\EnozomTask\RestaurantService\RestaurantDataAccessLayer\obj\Debug\RestaurantDataAccessLayer.csproj.GenerateResource.Cache

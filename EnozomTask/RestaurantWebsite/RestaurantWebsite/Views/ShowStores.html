@@ -1,0 +1,57 @@
+﻿
+
+
+
+
+
+<div ng-app="Myapp" ng-controller="myCntrl">
+
+    <script src="../Scripts/jquery-3.1.1.min.js"></script>
+    <script src="../Scripts/Angular/angular.min.js"></script>
+    <script src="../Scripts/Angular/angular-route.min.js"></script>
+    <script src="../Scripts/Angular/Module.js"></script>
+    <script src="../Scripts/Angular/Service.js"></script>
+    <script src="../Scripts/Angular/Controller.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+    <link href="../Content/bootstrap.min.css" rel="stylesheet" />
+
+
+    <h1 style="color:green" > Food Court Details</h1>
+
+    <br />
+
+    <a href="StoreControl.html" class="col-lg-offset-5" style="color:green"> <h4>Go to Stores control</h4></a>
+
+    <div class="divList">
+      
+        <div class="col-xs-3 form-horizontal">
+         
+            Search:  <input type="text" class="form-control" placeholder="Shop" ng-model="SearchText.StoreName" />
+        </div>
+        <br /><br />
+
+        <table cellpadding="12" class="table table-striped table table-bordered" cellspacing="0" cellpadding="0" style="direction:ltr ; border: 2px solid black; border-radius: 25px;  -moz-border-radius:10px;
+         -webkit-border-radius:10px;" border="1">
+            <tr>
+
+                <td style="color:green"><b>StoreLogo</b></td>
+                <td style="color:green"><b>StoreDescription</b></td>
+
+
+            </tr>
+            <tr ng-repeat="Store in Stores | filter:SearchText">
+                <td>
+                    <img ng-src="{{Store.StoreLogo}}" width="200" height="120">
+                </td>
+                <td>
+                    <label style="color:green"> {{Store.StoreName}}</label> 
+                    <br /><br />
+                    {{Store.StoreDescription}}
+                </td>
+
+
+            </tr>
+        </table>
+    </div>
+
+</div>

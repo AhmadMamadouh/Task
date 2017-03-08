@@ -1,0 +1,6 @@
+D:\EnozomTask\RestaurantWebsite\RestaurantWebsite\bin\RestaurantWebsite.dll.config
+D:\EnozomTask\RestaurantWebsite\RestaurantWebsite\bin\RestaurantWebsite.dll
+D:\EnozomTask\RestaurantWebsite\RestaurantWebsite\bin\RestaurantWebsite.pdb
+D:\EnozomTask\RestaurantWebsite\RestaurantWebsite\obj\Debug\RestaurantWebsite.csprojResolveAssemblyReference.cache
+D:\EnozomTask\RestaurantWebsite\RestaurantWebsite\obj\Debug\RestaurantWebsite.dll
+D:\EnozomTask\RestaurantWebsite\RestaurantWebsite\obj\Debug\RestaurantWebsite.pdb

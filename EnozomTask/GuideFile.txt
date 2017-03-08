@@ -1,0 +1,8 @@
+Steps
+-----
+
+1- open "RestaurantService" poject 
+2-in "RestaurantDataAccessLayer" Project Run the Migration to create the database 
+3- run "RestaurantService" Project 
+4- open and Run "RestaurantWebSite" Project 
+5- go to "Go to Stores Control" to add Stores and test the functionality of the app.
